@@ -1,0 +1,2 @@
+# Optimized-TFIDF-Search-with-Efficient-Query-Handling
+This Python program implements a TF-IDF-based document retrieval system with advanced query optimization. It preprocesses text files by tokenizing, removing stopwords, and stemming. It builds posting lists, normalizes vectors, and retrieves the most relevant documents using cosine similarity, optimized with top-10 element filtering for efficiency.
